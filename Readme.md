@@ -1,3 +1,5 @@
-# Bankist App
+# Bankist 🏦
 
-A single place to manage your all financial needs.
+A simpler banking experience for a simpler life.
+
+Click [here](https://bankist-rajeev.netlify.app/) and Enjoy the Bankist.
