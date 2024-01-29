@@ -1,5 +1,6 @@
-# Bankist 🏦
+#
 
+<h1 align="center">💰 Bankist 🏦</h1>
 Welcome to our digital bank, where banking is simple and hassle-free. With our 100% digital platform, you can watch your money grow and easily manage your finances from anywhere. Plus, enjoy the convenience of instant transfers, loans, and account closing. And the best part? Your free debit card is already included. Join us today for a simpler banking experience and a simpler life.
 
 Click [here](https://bankist-rajeev.netlify.app/) and Enjoy the Bankist.
@@ -66,18 +67,16 @@ Click [here](https://bankist-rajeev.netlify.app/) and Enjoy the Bankist.
 
 ## Useful Links
 
-- [Project Demo](https://bankist-rajeev.netlify.app/) for Web version
+- [Project Demo](https://bankist-rajeev.netlify.app/) for Web version.
 
 - [Project Repository](https://github.com/Rajeevjewar/Bankist.git)
 
 ## Need help?
 
-Feel free to contact me on [Twitter](https://twitter.com/be_rajeevkumar) or [LinkedIn](https://www.linkedin.com/in/berajeevkumar/), know more about me at [iamrajeev.me](https://iamrajeev.me)
+Feel free to contact me on [Twitter](https://twitter.com/be_rajeevkumar) or [LinkedIn](https://www.linkedin.com/in/berajeevkumar/), know more about me at my [Portfolio](https://iamrajeev.me).
 
 [![Twitter](https://img.shields.io/badge/Twitter-follow-blue.svg?logo=twitter&logoColor=white)](https://twitter.com/be_rajeevkumar)
 
 <hr>
 
 <h1 align=center>Happy Coding 👨‍💻</h1>
-
-Show some ❤️&nbsp; by giving the star to this repo
